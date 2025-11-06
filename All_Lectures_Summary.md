@@ -1919,16 +1919,10 @@ Answer: $400,000 per year
 - **A**uthentication
 - **N**on-repudiation
 
-### Four Security Domains: "P-P-I-T"
-- **P**hysical
-- **P**ersonnel
-- **I**T
-- **T**echnology → wait, that's wrong! → Operational
-
-Better: "People Protect Information Operations"
+### Four Security Domains: "People Protect Information Operations"
 - **P**ersonnel
 - **P**hysical
-- **I**T
+- **I**T (Information Technology)
 - **O**perational
 
 ### NIST RMF: "Please Call Security If Attacks Are Monitored"
